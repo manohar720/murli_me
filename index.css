@@ -1,0 +1,14 @@
+body {
+  background-image: url(images/img4.jpg);
+}
+
+h3 {
+  color: rgb(85, 119, 186);
+}
+.project {
+  color: palegreen;
+}
+section {
+  margin-top: 70px;
+  margin-left: 100px;
+}
