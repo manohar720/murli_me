@@ -9,13 +9,13 @@ h3 {
   color: rgb(85, 119, 186);
 }
 .project {
-  color: palegreen;
+  color: rgb(36, 182, 36);
 }
 
 header {
   display: flex;
   justify-content: space-between;
-  background-color: antiquewhite;
+  background-color: rgb(253, 248, 244);
   margin-bottom: 0px;
   padding-bottom: 0px;
 }
@@ -33,10 +33,12 @@ header ul li {
   margin-left: 20px;
 }
 main {
-  background-image: url(images/img4.jpg);
-  height: 500px;
+  background-image: url(images/image1.jpg);
+  background-size: cover;
+
+  height: 100vh;
 }
 main .intro {
-  margin-left: 150px;
-  margin-top: 100px;
+  margin-left: 180px;
+  margin-top: 150px;
 }
