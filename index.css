@@ -33,12 +33,17 @@ header ul li {
   margin-left: 20px;
 }
 main {
-  background-image: url(images/image1.jpg);
+  background-image: url(images/img6.jpg);
   background-size: cover;
+  background-position: center;
 
   height: 100vh;
 }
 main .intro {
   margin-left: 180px;
   margin-top: 150px;
+}
+#particles-js {
+  height: 100%;
+  width: 100%;
 }
